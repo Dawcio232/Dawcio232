@@ -1,5 +1,13 @@
-Lubię programować!
-<!---
-Dawcio232/Dawcio232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PL
+💻 - Programowanie to moje hobby
+⌨️ - Lubię także naprawiać komputery!
+💡 - Czasami mam dobre pomysły a czasami głupie.
+🖱️ - Jestem uczestnikiem HackClub
+💿 - Pytania na email dawid.232.v2@gmail.com
+
+EN
+💻 - Programming is my hobby
+⌨️ - I also enjoy fixing computers!
+💡 - Sometimes I have good ideas, sometimes stupid ones.
+🖱️ - I'm a HackClub member
+💿 - Questions by email: dawid.232.v2@gmail.com
