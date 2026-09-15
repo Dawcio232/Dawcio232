@@ -1,13 +1,28 @@
-PL<br>
-💻 - Programowanie to moje hobby <br>
-⌨️ - Lubię także naprawiać komputery!<br>
-💡 - Czasami mam dobre pomysły a czasami głupie.<br>
-🖱️ - Jestem uczestnikiem HackClub<br>
-💿 - Pytania na email dawid.232.v2@gmail.com<br>
-<br>
-EN<br>
-💻 - Programming is my hobby<br>
-⌨️ - I also enjoy fixing computers!<br>
-💡 - Sometimes I have good ideas, sometimes stupid ones.<br>
-🖱️ - I'm a HackClub member<br>
-💿 - Questions by email: dawid.232.v2@gmail.com<br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dawid Joszko
+=====================================================================================================================================
+
+Learning...
+-----------
+
+Hi I'm Dawid. I'm from Poland, I've been into computers since 8. I'm trying to get the basics of Python and some HTML. I love computers. I own a few raspberry PIs, some good projects and have ideas for bigger projects in the meantime.
+
+* 🌍  I'm based in Poland
+* ✉️  You can contact me at [dawid-joszko@proton.me](mailto:dawid-joszko@proton.me)
+* 🧠  I'm currently learning Python
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Dawcio232" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<a href="https://www.github.com/Dawcio232" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Dawcio232?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Dawcio232"><img src="https://github-readme-stats.vercel.app/api?username=Dawcio232&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dawcio232's GitHub stats" /></a>
+
+<a href="https://github.com/Dawcio232" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawcio232&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
